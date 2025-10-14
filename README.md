@@ -1,53 +1,50 @@
- Hey, I'm Hafsa 👋
-
-[![Smart Contract Wizard](https://img.shields.io/badge/Smart%20Contract-Wizard-blueviolet?style=flat&logo=ethereum&logoColor=white)](https://ethereum.org/en/developers/docs/smart-contracts/)  
-[![Solidity Apprentice](https://img.shields.io/badge/Solidity-Apprentice-orange?style=flat&logo=solidity&logoColor=white)](https://soliditylang.org/)  
-[![JavaScript Learner](https://img.shields.io/badge/JavaScript-Learner-yellow?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![Hardhat User](https://img.shields.io/badge/Hardhat-User-9cf?style=flat&logo=hardhat)](https://hardhat.org/)  
-[![Testing Enthusiast](https://img.shields.io/badge/Testing-Enthusiast-brightgreen?style=flat&logo=mocha)](https://mochajs.org/)  
-[![Blockchain Explorer](https://img.shields.io/badge/Blockchain-Explorer-lightgrey?style=flat&logo=ethereum)](https://etherscan.io/)  
-[![GitHub Stats](https://img.shields.io/github/stars/hafsaahmad?style=social)](https://github.com/hafsaahmad)  
-[![Open to Work](https://img.shields.io/badge/Open%20to-Work-green?style=flat&logo=linkedin)](https://www.linkedin.com/in/hafsaahmad/)
+<h1 align="center">Hi 👋, I'm Hafsa Ahmad</h1>
+<h3 align="center">💻 Smart Contract Developer | Solidity | Ethereum | Hardhat | Web3</h3>
 
 
+ About Me  
+🎯 Passionate about blockchain and smart contract development.  
+🧠 I build, test, and deploy secure contracts using Solidity and Hardhat.  
+⚙️ Skilled in ERC-20, NFTs (ERC-721), and contract testing.  
+🚀 Currently expanding skills in automation, Ethers.js, and DeFi protocols.  
+📫 Reach me at: hafsa.ahmad043@gmail.com
+Linkedin= https://www.linkedin.com/in/hafsa-ahmaddd/
 
-About Me (the real deal)
+Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,js,nodejs,html,css,git,github,vscode" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" width="40" height="40" alt="Hardhat" />
+  <img src="https://cdn.worldvectorlogo.com/logos/ethereum-1.svg" width="40" height="40" alt="Ethereum"/>
+</p>
 
-- BS-IT student who lives in code and coffee ☕  
-- Obsessed with smart contracts & making blockchain work for *real* people  
-- Made a few ERC20 tokens, wrote some funky scripts, and yes, still Googling stuff daily  
-- I don’t do frontend — backend blockchain magic is my jam  
-- Ask me about how to not break your contract, or I’ll just roll my eyes 🙄  
-- Reach me: hafsa.ahmad043@gmail.com (I swear I respond faster than blockchain confirmations)
+ Deployed Contracts  
+🔹 ERC-20 Token: [View on Sepolia](https://sepolia.etherscan.io/token/0x8FEFde779790B13Ee7ac54a4836f3a9157691901)  
+🔹 NFT Minting Contract: [View on Sepolia](https://sepolia.etherscan.io/address/0x5A4Ac6EA916D3e75E92d7e03E8046Fd31bE2b6d9)  
+🔹 Multi Signature Wallet Project: [View on Sepolia](https://sepolia.etherscan.io/address/0xe01842172E4FFC248db2a2A898c9292c1F812bC4)
 
-
-Skills? Yeah, I got a few.
-
-| What I Speak           | My Toolkit                 | Blockchain Stuff        | Other Life Hacks      |
-|-----------------------|----------------------------|------------------------|----------------------|
-| Solidity (duh)        | Hardhat & Ethers.js        | Ethereum, Smart Contracts| Git, VS Code (my second home) |
-| JavaScript (learning) | Mocha, Chai (testing squad) | ERC20, DeFi basics      | Linux commands (kind of)  |
-
-
-
- What I’m working on
-
-- Making sure my tests don’t fail (mostly succeeding)  
-- Writing scripts to deploy contracts without pulling my hair out  
-- Planning my next project: maybe a killer NFT collection? Stay tuned.
+ Achievements & Certifications
+<p align="center">
+  <a href="https://www.coursera.org/account/accomplishments/records/GBKU5L9CFVB5"><img src="https://img.shields.io/badge/Coursera%20-%20Smart%20Contracts-blue?style=for-the-badge&logo=coursera" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Deployed%20First%20NFT%20-%20Ethereum%20Testnet-purple?style=for-the-badge&logo=ethereum" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/100%2B%20Commits%20-%20GitHub-green?style=for-the-badge&logo=github" /></a>
+</p>
 
 
 
- GitHub Stats (because numbers matter)
+GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hafsa-ahmad&show_icons=true&theme=tokyonight" alt="hafsa-ahmad" />
+</p>
 
-![Hafsa’s GitHub stats](https://github-readme-stats.vercel.app/api?username=hafsaahmad&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafsa-ahmad&theme=tokyonight" alt="streak" />
+</p>
+
+ Featured Projects
+- 🪙 [Custom ERC-20 Token](https://github.com/Hafsah-Ahmad/ERC-20-Token-Without-OpenZeppelin)
+- 🎨 [NFT Minting Contract](https://github.com/Hafsah-Ahmad/MY-FIRST-BASIC-NFT)
+- 🔒 [Multi-Signature Wllet](https://github.com/Hafsah-Ahmad/MultiSigWallet)
 
 
- Wanna talk blockchain or memes?
+ 
 
-- [LinkedIn](https://www.linkedin.com/in/hafsaahmad/) (the “professional” one)  
-- [Twitter](https://twitter.com/hafsaahmad) (where I occasionally drop wisdom and sarcasm)
-
-
-
-*P.S. If you wanna see me debug, it’s 90% confusion, 10% magic ✨*
