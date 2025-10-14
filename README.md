@@ -31,14 +31,6 @@ Languages and Tools
 
 
 
-GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafsa-ahmad&show_icons=true&theme=tokyonight" alt="hafsa-ahmad" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafsa-ahmad&theme=tokyonight" alt="streak" />
-</p>
 
  Featured Projects
 - 🪙 [Custom ERC-20 Token](https://github.com/Hafsah-Ahmad/ERC-20-Token-Without-OpenZeppelin)
