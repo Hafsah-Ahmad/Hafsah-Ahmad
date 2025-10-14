@@ -28,6 +28,8 @@ Languages and Tools
   <a href="#"><img src="https://img.shields.io/badge/Deployed%20First%20NFT%20-%20Ethereum%20Testnet-purple?style=for-the-badge&logo=ethereum" /></a>
   <a href="#"><img src="https://img.shields.io/badge/100%2B%20Commits%20-%20GitHub-green?style=for-the-badge&logo=github" /></a>
 </p>
+![Hafsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
 
 
 
